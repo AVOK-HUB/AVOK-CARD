@@ -14,6 +14,7 @@ Carte de visite interactive AVOK — Tous mes liens en un seul endroit.
 - 🎬 Twitch: @avoktv
 - 📸 Instagram: @avok.gg
 - ✖️ X: @avok.g
+- 👽 Reddit: u/AAROK-
 - 🛡️ TryHackMe: AVOK (CyberSécurité)
 - 🌐 Site officiel: https://aarokhub.github.io/AAROK/
 
