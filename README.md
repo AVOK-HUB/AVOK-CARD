@@ -4,7 +4,7 @@
 
 Carte de visite interactive AVOK — Tous mes liens en un seul endroit.
       Carte de visite : https://avok-hub.github.io/AVOK-CARD/
-🌐 **Accéder au site** : https://avok-hub.github.io/AVOK/
+🌐 **Accéder au site** : https://avok-hub.github.io/AVOK-SITE/
 ---
 
 **Gaming • Tech • Stream**
@@ -16,7 +16,7 @@ Carte de visite interactive AVOK — Tous mes liens en un seul endroit.
 - ✖️ X: @avok.g
 - 👽 Reddit: u/AAROK-
 - 🛡️ TryHackMe: AVOK (CyberSécurité)
-- 🌐 Site officiel: https://avok-hub.github.io/AVOK/
+- 🌐 Site officiel: https://avok-hub.github.io/AVOK-SITE/
 
 ## Licence
 
